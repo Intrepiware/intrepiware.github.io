@@ -94,6 +94,7 @@ paginate_path: "/page/:num/"
 sass:
   sass_dir: _sass
   style: :expanded # You might prefer to minify using :compressed
+  quiet_deps: true # Suppress deprecation warnings from dependencies
 
 # Use the following plug-ins
 plugins:
