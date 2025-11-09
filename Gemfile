@@ -12,4 +12,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "webrick"
   gem "jekyll-github-metadata"
+  gem 'jekyll-compose'
 end
+
+gem 'tzinfo-data'
