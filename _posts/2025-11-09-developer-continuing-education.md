@@ -7,7 +7,7 @@ categories: [career, development]
 
 I stole one of my favorite interview questions from Peter Thiel: "What are some strong opinions that you hold?"
 
-You have to set this question up correctly, though, otherwise you'll get answers like "pineapple doesn't belong on pizza," or "bitcoin will replace fiat currency." Completely useless answers in terms of predicting how a candidate will perform in the job.
+If you ask this question, you have to set it up correctly; otherwise you'll get answers like "pineapple doesn't belong on pizza," or "bitcoin will replace fiat currency." Completely useless answers when you're trying to predict how a candidate will perform on the job.
 
 I have lots of strong opinions, and it's a main reason I started this blog. Because there just aren't enough overly-opinionated people ranting on the internet.
 
