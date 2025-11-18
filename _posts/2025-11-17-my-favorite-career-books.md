@@ -2,6 +2,7 @@
 layout: post
 title: My Favorite Career Books
 date: 2025-11-17 20:02 -0600
+tags: career
 ---
 
 I'm a big believer in reading books to further your career, and here is a list of the books that truly shaped my journey.
@@ -40,7 +41,7 @@ Jawad Ahsan, former CFO of Axon (aka Taser), shares the hard lessons he's learne
 
 **_How to Measure Anything_ - Douglas Hubbard**
 
-This book is very technical, but I like that it encourages creative thinking and problem solving. Measurement, the book argues, is simply a reduction in uncertainty. By that definition, everything in the universe including abstract things like love or difficulty can be "measured." This book also contains a great explanation of Monte Carlo simulations, and how to create one in Excel.
+This book is very technical, but I like that it encourages creative thinking and problem solving. Measurement, the book argues, is simply a reduction in uncertainty. By that definition, everything in the universe including abstract concepts like love or difficulty can be "measured." This book also contains a great explanation of Monte Carlo simulations, and how to create one in Excel.
 
 **_The Five Dysfunctions of a Team: A Leadership Fable_ - Patrick Lencioni**
 
