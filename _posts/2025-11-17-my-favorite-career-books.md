@@ -2,7 +2,7 @@
 layout: post
 title: My Favorite Career Books
 date: 2025-11-17 20:02 -0600
-tags: career
+categories: [career]
 ---
 
 I'm a big believer in reading books to further your career, and here is a list of the books that truly shaped my journey.
